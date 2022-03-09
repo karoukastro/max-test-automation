@@ -1,0 +1,14 @@
+{
+  "name": "max-test-automation",
+  "version": "1.0.0",
+  "description": "Max UI Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Carolina Castro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+    "countries": [
+        {
+            "code": "AU",
+            "en": "Australia",
+            "es": "Australia",
+            "fr": "Australie"
+        },
+        {
+            "code": "CA",
+            "en": "Canada",
+            "es": "Canadá",
+            "fr": "Canada"
+        },
+        {
+            "code": "CO",
+            "en": "Colombia",
+            "es": "Columbia",
+            "fr": "Columbia"
+        },
+        {
+            "code": "CR",
+            "en": "Costa Rica",
+            "es": "Costa Rica",
+            "fr": "Costa Rica"
+        },
+        {
+            "code": "DO",
+            "en": "Dominican Republic",
+            "es": "República Dominicana",
+            "fr": "République Dominicaine"
+        },
+        {
+            "code": "EC",
+            "en": "Ecuador",
+            "es": "Ecuador",
+            "fr": "Équateur"
+        },
+        {
+            "code": "SV",
+            "en": "El Salvador",
+            "es": "El salvador",
+            "fr": "Le sauveur"
+        },
+        {
+            "code": "FJ",
+            "en": "Fiji",
+            "es": "Fiyi",
+            "fr": "Fidji"
+        },
+        {
+            "code": "GH",
+            "en": "Ghana",
+            "es": "Ghana",
+            "fr": "Ghana"
+        },
+        {
+            "code": "GT",
+            "en": "Guatemala",
+            "es": "Guatemala",
+            "fr": "Guatemala"
+        },
+        {
+            "code": "HK",
+            "en": "Hong Kong",
+            "es": "Hong Kong",
+            "fr": "Hong Kong"
+        },
+        {
+            "code": "CI",
+            "en": "Ivory Coast",
+            "es": "Costa de Marfil",
+            "fr": "Côte d'Ivoire"
+        },
+        {
+            "code": "MY",
+            "en": "Malaysia",
+            "es": "Malasia",
+            "fr": "Malaisie"
+        },
+        {
+            "code": "NZ",
+            "en": "New Zealand",
+            "es": "Nueva Zelanda",
+            "fr": "Nouvelle-Zélande"
+        },
+        {
+            "code": "NG",
+            "en": "Nigeria",
+            "es": "Nigeria",
+            "fr": "Nigeria"
+        },
+        {
+            "code": "PH",
+            "en": "Philippines",
+            "es": "Filipinas",
+            "fr": "Philippines"
+        },
+        {
+            "code": "SG",
+            "en": "Singapore",
+            "es": "Singapur",
+            "fr": "Singapour"
+        },
+        {
+            "code": "US",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis"
+        }
+    ],
+    "buttons": [
+        {
+            "code": "EN",
+            "en": "English",
+            "es": "Inglés",
+            "fr": "Anglais"
+        },
+        {
+            "code": "ES",
+            "en": "Spanish",
+            "es": "Español",
+            "fr": "Espagnol"
+        },
+        {
+            "code": "FR",
+            "en": "French",
+            "es": "Francés",
+            "fr": "Français"
+        }
+    ]
+}
